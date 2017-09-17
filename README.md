@@ -3,7 +3,7 @@
 # Udacity Self-Driving Car Engineer Nanodegree
 # Unscented Kalman Filter Project Starter Code
 
-<img src="./image/Trimed.gif?raw=true" width="500px">
+<img src="./image/demo.gif?raw=true" width="500px">
 
 In this project utilize an Unscented Kalman Filter to estimate the state of a moving object of interest with noisy lidar and radar measurements. Passing the project requires obtaining RMSE values that are lower that the tolerance outlined in the project reburic. 
 
